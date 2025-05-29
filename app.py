@@ -1,3 +1,0 @@
-requirements.txtstreamlit
-pandas
-plotly
